@@ -1,0 +1,204 @@
+/* ä¸­å›½ */
+@font-face {
+	font-family: 'HONOR Sans Brand ExtraLight';
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-ExtraLight-Split.eot');
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-ExtraLight-Split.eot') format('embedded-opentype'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-ExtraLight-Split.woff2') format('woff2'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-ExtraLight-Split.woff') format('woff'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-ExtraLight-Split.ttf') format('truetype'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-ExtraLight-Split.otf') format('opentype');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans Brand Light';
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Light-Split.eot');
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Light-Split.eot') format('embedded-opentype'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Light-Split.woff2') format('woff2'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Light-Split.woff') format('woff'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Light-Split.ttf') format('truetype'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Light-Split.otf') format('opentype');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans Brand Regular';
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Regular-Split.eot');
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Regular-Split.eot') format('embedded-opentype'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Regular-Split.woff2') format('woff2'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Regular-Split.woff') format('woff'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Regular-Split.ttf') format('truetype'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Regular-Split.otf') format('opentype');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans Brand Medium';
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Medium-Split.eot');
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Medium-Split.eot') format('embedded-opentype'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Medium-Split.woff2') format('woff2'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Medium-Split.woff') format('woff'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Medium-Split.ttf') format('truetype'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Medium-Split.otf') format('opentype');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans Brand DemiBold';
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-DemiBold-Split.eot');
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-DemiBold-Split.eot') format('embedded-opentype'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-DemiBold-Split.woff2') format('woff2'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-DemiBold-Split.woff') format('woff'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-DemiBold-Split.ttf') format('truetype'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-DemiBold-Split.otf') format('opentype');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans Brand ExtraLight';
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Light-Split.eot');
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Light-Split.eot') format('embedded-opentype'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Light-Split.woff2') format('woff2'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Light-Split.woff') format('woff'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Light-Split.ttf') format('truetype'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-Light-Split.otf') format('opentype');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans Brand ExtraLight';
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-ExtraLight-Split.eot');
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-ExtraLight-Split.eot') format('embedded-opentype'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-ExtraLight-Split.woff2') format('woff2'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-ExtraLight-Split.woff') format('woff'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-ExtraLight-Split.ttf') format('truetype'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-brand/HONORSansBrand-ExtraLight-Split.otf') format('opentype');
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'HONOR Sans World Regular';
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Regular.eot');
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Regular.eot') format('embedded-opentype'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Regular.woff2') format('woff2'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Regular.woff') format('woff'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Regular.ttf') format('truetype'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Regular.otf') format('opentype');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans World Medium';
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Medium.eot');
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Medium.eot') format('embedded-opentype'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Medium.woff2') format('woff2'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Medium.woff') format('woff'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Medium.ttf') format('truetype'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Medium.otf') format('opentype');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans World DemiBold';
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Demibold.eot');
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Demibold.eot') format('embedded-opentype'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Demibold.woff2') format('woff2'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Demibold.woff') format('woff'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Demibold.ttf') format('truetype'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-world/HONORSansWorld-Demibold.otf') format('opentype');
+	font-style: normal;
+}
+
+/* é˜¿è¯­å›½å®¶ */
+@font-face {
+	font-family: 'HONOR Sans Arabic Regular';
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-R.eot');
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-R.eot') format('embedded-opentype'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-R.woff2') format('woff2'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-R.woff') format('woff'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-R.ttf') format('truetype'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-R.otf') format('opentype');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans Arabic Medium';
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-M.eot');
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-M.eot') format('embedded-opentype'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-M.woff2') format('woff2'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-M.woff') format('woff'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-M.ttf') format('truetype'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-M.otf') format('opentype');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans Arabic DemiBold';
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-DB.eot');
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-DB.eot') format('embedded-opentype'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-DB.woff2') format('woff2'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-DB.woff') format('woff'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-DB.ttf') format('truetype'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-arabic/HONORSansArabic-DB.otf') format('opentype');
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'HONOR Sans TC Regular';
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-Regular.eot');
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-Regular.eot') format('embedded-opentype'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-Regular.woff2') format('woff2'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-Regular.woff') format('woff'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-Regular.ttf') format('truetype'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-Regular.otf') format('opentype');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans TC Medium';
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-Medium.eot');
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-Medium.eot') format('embedded-opentype'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-Medium.woff2') format('woff2'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-Medium.woff') format('woff'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-Medium.ttf') format('truetype'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-Medium.otf') format('opentype');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans TC DemiBold';
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-DemiBold.eot');
+	src: url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-DemiBold.eot') format('embedded-opentype'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-DemiBold.woff2') format('woff2'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-DemiBold.woff') format('woff'), url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-DemiBold.ttf') format('truetype'),
+		url('https://www-file.honor.com/content/dam/honor/common/font/honorsans/honor-sans-tc/HONORSansSplitTC-DemiBold.otf') format('opentype');
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'HONOR Sans Armenian Regular';
+	src: url('https://www.honor.com/content/dam/honor/common/font/armenian/NotoSansArmenian-Regular.ttf');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans Armenian Medium';
+	src: url('https://www.honor.com/content/dam/honor/common/font/armenian/NotoSansArmenian-Medium.ttf');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans Armenian DemiBold';
+	src: url('https://www.honor.com/content/dam/honor/common/font/armenian/NotoSansArmenian-SemiBold.ttf');
+	font-style: normal;
+}
+
+/* æ ¼é²å‰äºš */
+@font-face {
+	font-family: 'HONOR Sans Georgian Regular';
+	src: url('https://www.honor.com/content/dam/honor/common/font/georgian/NotoSansGeorgian-Regular.ttf');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans Georgian Medium';
+	src: url('https://www.honor.com/content/dam/honor/common/font/georgian/NotoSansGeorgian-Medium.ttf');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans Georgian DemiBold';
+	src: url('https://www.honor.com/content/dam/honor/common/font/georgian/NotoSansGeorgian-SemiBold.ttf');
+	font-style: normal;
+}
+
+/* æŸ¬åŸ”å¯¨ */
+@font-face {
+	font-family: 'HONOR Sans Khmer Regular';
+	src: url('https://www.honor.com/content/dam/honor/common/font/khmer/KhmerOS.ttf');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans Khmer Medium';
+	src: url('https://www.honor.com/content/dam/honor/common/font/khmer/KhmerOSBassac.ttf');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HONOR Sans Khmer DemiBold';
+	src: url('https://www.honor.com/content/dam/honor/common/font/khmer/KhmerOSBattambang-Bold.ttf');
+	font-style: normal;
+}
